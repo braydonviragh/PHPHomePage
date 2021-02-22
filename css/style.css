@@ -20,7 +20,14 @@ body {
   font-size: 1.3rem;
 }
 
+
+
 /*============= TOP BAR HEADER =============*/
+header
+{
+  background-color: #276678!important;
+  margin-bottom: 0px!important;
+}
 .top-bar {
   background: #709fb0;
   height: 2.8rem;
