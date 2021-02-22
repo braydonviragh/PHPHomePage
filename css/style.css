@@ -1,20 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap");
 /*COLOURS COLOURS COLOURS COLOURS COLOURS */
 /*
 
 Light White = #f6f5f5
 Gray/lightblue = #d3e0ea
 Torquoise = #1687a7
-Dark green = #276678
+Dark green = #276678*/
 
-
-
-
+html {
+  font-family: "Roboto", sans-serif;
+}
 
 /*-- Body Reset --*/
 body {
   overflow-x: hidden;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+
   color: #276678;
   background-color: #f6f5f5;
   font-size: 1.3rem;
