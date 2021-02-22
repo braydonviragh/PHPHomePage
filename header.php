@@ -18,7 +18,8 @@
 <header>
      <!--Navbar -->
      <nav class="navbar navbar-expand-lg navbar-dark cyan">
-                <a class="navbar-brand font-bold" href="#">QC/HC: Keeping You Moving</a>
+         <a class="navbar-brand font-bold logo" href="#">QC/HC</a>
+
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4" aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
