@@ -12,7 +12,9 @@
 	<link rel="stylesheet" href="bootstrap/bootstrap.min.css">
 	<!-- Style CSS -->
 	<link rel="stylesheet" href="css/style.css">
-	<!-- Google Fonts -->
+    <!-- Style FOR HEADER AND FOOTER -->
+    <link rel="stylesheet" href="css/HeaderFooter.css">
+
 
 </head>
 <header>
