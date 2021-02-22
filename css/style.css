@@ -3,9 +3,10 @@
 /*COLOURS COLOURS COLOURS COLOURS COLOURS */
 /*
 
+FONT: ROBOTO 
 Light White = #f6f5f5
 Gray/lightblue = #d3e0ea
-Torquoise = #1687a7
+Turquoise = #1687a7
 Dark green = #276678*/
 
 html {
@@ -27,7 +28,6 @@ body {
 header
 {
   background-color: #276678!important;
-  margin-bottom: 0px!important;
 }
 .logo {
   font-family: sans-serif;
@@ -36,6 +36,9 @@ header
   border: 4px white solid;
   border-radius: 12px;
   padding: 5px;
+}
+nav a:hover {
+  color: #276678;
 }
 
 .top-bar {
